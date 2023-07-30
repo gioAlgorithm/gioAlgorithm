@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giorgi Machitadze</h1>
-<h3 align="center">A passionate frontend developer from Georgia India</h3>
+<h3 align="center">A passionate frontend developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gioalgorithm&label=Profile%20views&color=0e75b6&style=flat" alt="gioalgorithm" /> </p>
 
