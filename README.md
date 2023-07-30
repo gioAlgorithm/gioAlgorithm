@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giorgi Machitadze</h1>
-<h5 align="center">As an indie front-end developer, I love creating the digital world step by step. I carefully build my coding projects from scratch, starting with ideas and designs and then turning them into practical solutions for real-life issues. My main goal is to make user experiences smooth and interfaces visually appealing. I'm always exploring new and innovative ways to bring my ideas to life through my code.</h5>
+<h5>As an indie front-end developer, I love creating the digital world step by step. I carefully build my coding projects from scratch, starting with ideas and designs and then turning them into practical solutions for real-life issues. My main goal is to make user experiences smooth and interfaces visually appealing. I'm always exploring new and innovative ways to bring my ideas to life through my code.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gioalgorithm&label=Profile%20views&color=0e75b6&style=flat" alt="gioalgorithm" /> </p>
 
