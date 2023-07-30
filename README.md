@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://giorgimachitadze-portfolio.netlify.app/](https://giorgimachitadze-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, html, css, firebase, sass, graphql,javascript**
+- 💬 Ask me about **React, HTML, CSS, Firebase, Sass, GraphQL, Javascript**
 
 - 📫 How to reach me **adult.algorithm@gmail.com**
 
