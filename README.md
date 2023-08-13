@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Entertainment vs productivity](https://giorgimachitadze-evsp.netlify.app/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://giorgimachitadze-portfolio.netlify.app/](https://giorgimachitadze-portfolio.netlify.app/)
 
