@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gioalgorithm&label=Profile%20views&color=0e75b6&style=flat" alt="gioalgorithm" /> </p>
 
-- 🔭 I’m currently working on [Entertainment vs productivity](https://giorgimachitadze-evsp.netlify.app/)
+- 🔭 I’m currently working on [The Maze](https://giorgimachitadze-maze.vercel.app/)
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://giorgimachitadze-portfolio.netlify.app/](https://giorgimachitadze-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://giorgimachitadze.vercel.app/](https://giorgimachitadze.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, Sass, GraphQL, Firebase**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Sass, GraphQL, Firebase, Next.js, Typescript**
 
-- 📫 How to reach me **adult.algorithm@gmail.com**
+- 📫 How to reach me **giomachitadze.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
