@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gioalgorithm&label=Profile%20views&color=0e75b6&style=flat" alt="gioalgorithm" /> </p>
 
-- 🔭 I’m currently working on [The Maze](https://giorgimachitadze-maze.vercel.app/)
+- 🔭 I’m currently working on [Cyber Shop](https://github.com/gioAlgorithm/cyber-shop)
 
 - 🌱 I’m currently learning **TypeScript**
 
