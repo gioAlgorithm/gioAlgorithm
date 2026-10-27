@@ -15,7 +15,6 @@
 - 💼 Full-Stack Developer at **Gulf Georgia**
 - 🏢 Working on **ERP systems, business platforms, and backend services**
 - 🚀 Building with **Next.js, React, NestJS, Node.js, and PostgreSQL**
-- 🔭 Personal project: [Cyber Shop](https://github.com/gioAlgorithm/cyber-shop)
 - 🌐 Portfolio: [giorgimachitadze.vercel.app](https://giorgimachitadze.vercel.app/)
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, NestJS, Node.js, and PostgreSQL**
 - 📫 Reach me at **giomachitadze.dev@gmail.com**
